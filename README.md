@@ -1,2 +1,2 @@
 # willyomg.github.io
-Personal blog
+Wei's Personal Blog
